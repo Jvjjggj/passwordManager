@@ -1,0 +1,51 @@
+.list {
+  margin: 0px;
+  display: flex;
+  border-radius: 5px;
+  margin: 10px;
+  justify-content: space-evenly;
+  width: 30%;
+  align-items: center;
+  border: solid 1px #f8fafc;
+  padding: 5px;
+}
+.initial-container {
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  color: #f8fafc;
+  background-color: #10b981;
+  margin: 10px;
+}
+
+.form-details-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 40%;
+}
+.paraa {
+  margin: 0px;
+}
+.star-img {
+  width: 100%;
+  margin: 0px;
+}
+.delete-btn {
+  background-color: transparent;
+  align-self: center;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  margin: 0px;
+}
+.delete-img {
+  height: 20px;
+}
+.user-password {
+  margin: 0px;
+}
